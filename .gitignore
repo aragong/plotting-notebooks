@@ -1,6 +1,7 @@
 # FOLDERS 
 .vscode/*
 tests/data
+mock/*
 
 
 # FILES
