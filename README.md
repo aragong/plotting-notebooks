@@ -2,6 +2,13 @@
 # TESEO.Apiprocess
 Python-Flask Api to trigger TESEO simulations. This development preprocess, execute and postprocess TESEO oil spill simulations to provide standard outputs based on .nc .json .geojson and .csv formats required by web-clients or users throgh web-request.
 
+# :chart_with_upwards_trend: Plot TESEO  [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aragong/plotting-notebooks/main?urlpath=https%3A%2F%2Fgithub.com%2Faragong%2Fplotting-notebooks%2Fblob%2Fmain%2Fteseo%2Fparticles.ipynb)
+
+
+
+
+----------------------
+#TO UPDATE BELLOW
 [!] CHANGE BADAGE REPO-LINKS
 
 ![GitHub top language](https://img.shields.io/github/languages/top/aragong/Python-Flask-skeleton?style=plastic)
